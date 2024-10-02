@@ -1,0 +1,20 @@
+.group-heading {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+  width: 320px;
+}
+.group-image {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.group-title {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #333;
+}
+.group-add-icon {
+  margin-left: auto;
+}
